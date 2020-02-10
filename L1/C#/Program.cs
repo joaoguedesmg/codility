@@ -14,6 +14,7 @@ namespace ConsoleApp4
             int b = teste.solution(1024);
             Console.WriteLine(b);
             Console.ReadKey();
+            //bola
         }
     }
 
