@@ -48,6 +48,7 @@
     <Compile Include="L2\L2.2\csharp\Solution.cs" />
     <Compile Include="L3\L3.2\csharp\Solution.cs" />
     <Compile Include="L3\L3.1\csharp\Solution.cs" />
+    <Compile Include="L3\L3.3\csharp\Solution.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -60,6 +61,7 @@
     <Folder Include="L2\L2.2\python\" />
     <Folder Include="L3\L3.1\python\" />
     <Folder Include="L3\L3.2\python\" />
+    <Folder Include="L3\L3.3\python\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

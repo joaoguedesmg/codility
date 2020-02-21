@@ -10,14 +10,14 @@ namespace Solution
     {
         static void Main(string[] args)
         {
-            Solution.L3.L3._2.csharp.Solution s = new Solution.L3.L3._2.csharp.Solution();
-            int[] a = {0,1, 2, 3,4, 5 };
-          int b=  s.solution(a);
-            Console.WriteLine(b+"");
+            Solution.L3.L3._3.csharp.Solution s = new Solution.L3.L3._3.csharp.Solution();
+            int[] a = { -2 , -3 , -4 , -1 };
+            int b = s.solution(a);
+            Console.WriteLine(b + "");
             Console.ReadKey();
         }
-       
-        
+
+
     }
- }
+}
 
